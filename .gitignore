@@ -1,0 +1,37 @@
+# Xcode
+DerivedData/
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdata/
+*.xcodeproj/project.xcworkspace/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+*.lock
+*.xcscmblueprint
+
+# Carthage
+Carthage/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Firebase
+GoogleService-Info.plist
+
+# Temporary files
+*.swp
+*.swo
+*.DS_Store
+
+# Build artifacts
+*.app
+*.ipa
+*.dSYM/
